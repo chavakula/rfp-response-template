@@ -142,14 +142,4 @@ If the client requires maturity proof, include `artifacts/CMMI-L5-Process-Overvi
 
 ---
 
-## Generating Word Document
-
-Use the `generate_docx.py` pattern from the Canary project to convert the markdown template to Word format. Adapt the script to parse the master template and apply consistent formatting with:
-- Company branding (logo, colors, fonts)
-- Header/footer with document control info
-- Auto-generated TOC
-- Table formatting matching the markdown structure
-
----
-
 *Template Version: 1.0 | Created: April 2026 | Maintained by: Rajshekar Chavakula*
