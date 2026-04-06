@@ -152,4 +152,4 @@ Use the `generate_docx.py` pattern from the Canary project to convert the markdo
 
 ---
 
-*Template Version: 1.0 | Created: April 2026 | Maintained by: Pre-Sales Engineering*
+*Template Version: 1.0 | Created: April 2026 | Maintained by: Rajshekar Chavakula*
